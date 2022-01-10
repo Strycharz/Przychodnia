@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1641833955 source:c:\users\admin\desktop\projekt zrobiony\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<windows.h>
+	<string>
+	<chrono>
+	<thread>
+	<cmath>
+	"menu.hpp"
+
+1641831027 c:\users\admin\desktop\projekt zrobiony\menu.hpp
+	"dodaj.hpp"
+	"zobacz.hpp"
+	"zapisz.hpp"
+	"wczytaj.hpp"
+	"usun.hpp"
+	"edytuj.hpp"
+	"szukaj.hpp"
+
+1641834258 c:\users\admin\desktop\projekt zrobiony\dodaj.hpp
+
+1641834622 c:\users\admin\desktop\projekt zrobiony\zobacz.hpp
+
+1641830298 c:\users\admin\desktop\projekt zrobiony\zapisz.hpp
+
+1641837462 c:\users\admin\desktop\projekt zrobiony\wczytaj.hpp
+
+1641830382 c:\users\admin\desktop\projekt zrobiony\usun.hpp
+
+1641834346 c:\users\admin\desktop\projekt zrobiony\edytuj.hpp
+
+1641836889 c:\users\admin\desktop\projekt zrobiony\szukaj.hpp
+

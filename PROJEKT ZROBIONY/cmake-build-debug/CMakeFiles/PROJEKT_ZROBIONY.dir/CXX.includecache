@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/dodaj.hpp
+
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/edytuj.hpp
+
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/main.cpp
+iostream
+-
+conio.h
+-
+string
+-
+fstream
+-
+windows.h
+-
+string
+-
+menu.hpp
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/menu.hpp
+dodaj.hpp
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/dodaj.hpp
+
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/menu.hpp
+dodaj.hpp
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/dodaj.hpp
+zobacz.hpp
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/zobacz.hpp
+zapisz.hpp
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/zapisz.hpp
+wczytaj.hpp
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/wczytaj.hpp
+usun.hpp
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/usun.hpp
+edytuj.hpp
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/edytuj.hpp
+
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/usun.hpp
+
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/wczytaj.hpp
+
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/zapisz.hpp
+
+C:/Users/Admin/Desktop/PROJEKT ZROBIONY/zobacz.hpp
+

@@ -1,0 +1,21 @@
+przychodnia 
+
+Zadanie polega na zaprojektowaniu oraz implementacji oprogramowania
+do zarządzania przychodnią lekarską. Każda wizyta charakteryzowana są następującym rekordem danych:
+
+• id wizyty - tablica znaków o maksymalnej długości 50 znaków
+• imię i nazwisko pacjenta - tablica znaków o maksymalnej dłgości 256
+znaków
+• typ - jeden z typów: kontrolna, szczepienie, pobranie krwi, badania itp.
+• data wizyty - data w przyjętym formacie
+• imię i nazwisko lekarza - imię i nazwisko lekarza
+• diagnoza - tablica znaków o maksymalnej długości 1000 znaków
+• przypisane leki - jeden z typów: witaminy, przeciwbólowe, antybiotyki, antywirusowe itp.
+Program powinien umożliwiać wykonywanie następujących czynności:
+• dodanie wizyty
+• usunięcie wizyty
+• zmianę danych wizyty
+• wyszukanie/filtrowanie produktu po id/nazwisku pacjenta itp.
+• *wyszukianie przy użyciu wyrażeń regularnych
+• zapisanie zgromadzonej bazy danych na dysku w postaci pliku
+• wczytanie zapisaniej bazy danych ze wskazanego pliku
